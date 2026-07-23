@@ -14,6 +14,7 @@ int main()
      *3.引用在初始化后，其值不能再更改，不能再用作其他变量的引用
      */
     constexpr int a=10;
+    //const引用可以用常量进行初始化,但是const引用不允许修改变量的值
     const  int& b=a;
     cout<<"&a="<<&a<<endl;
     cout<<"&b="<<&b<<endl;
