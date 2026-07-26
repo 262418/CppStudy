@@ -3,13 +3,14 @@
 using namespace std;
 class Rabbit
 {
-private:
-    string name;
-    char* food;
 public:
     Rabbit(const string& name,const char* food);
     void eat();
     ~Rabbit();
+private:
+    string name;
+    char* food;
+
 };
 
 Rabbit::Rabbit(const string& name,const char* food)
