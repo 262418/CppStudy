@@ -3,15 +3,16 @@
 using namespace std;
 class Sheep
 {
-private:
-    string name;
-    string color;
-    char* home;
 public:
     Sheep(const string& name,const string& color,const char* home);
     Sheep(const Sheep& sheep);
     void show();
     ~Sheep();
+private:
+    string name;
+    string color;
+    char* home;
+
 };
 Sheep::Sheep(const string &name,const string &color,const char* home)
 {
