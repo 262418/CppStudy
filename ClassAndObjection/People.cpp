@@ -21,13 +21,14 @@ void Birth::show()
 }
 class People
 {
+public:
+    People(const string& name,int idCard,int year, int month, int day);
+    void show();
 private:
     string name;
     int idCard=0;
     Birth birth;
-public:
-    People(const string& name,int idCard,int year, int month, int day);
-    void show();
+
 };
 
 People::People(const string& name,int idCard,int year, int month, int day):birth(year,month,day)
