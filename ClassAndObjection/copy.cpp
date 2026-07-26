@@ -31,7 +31,7 @@ Sheep::Sheep(const string &name,const string &color,const char* home)
 //     color=sheep.color;
 //     home=sheep.home;
 // }
-//深拷贝
+//深拷贝：在拷贝构造函数中完成更深层次的复制，当类中有指针成员时，深拷贝可以为新对象的指针分配一块内存空间，将数据复制到新空间
 Sheep::Sheep(const Sheep& sheep)
 {
     cout<<"调用拷贝构造函数"<<endl;
