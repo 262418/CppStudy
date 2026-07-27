@@ -42,11 +42,11 @@ private:
     float x;
     float y;
 };
+
 Point::Point(float x,float y):x(x),y(y)
 {
     cout<<"初始化坐标点"<<endl;
 }
-
 Point::~Point()=default;
 float Circle::getArea(Point& p1, Point& p2)
 {
