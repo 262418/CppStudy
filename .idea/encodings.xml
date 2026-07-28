@@ -8,7 +8,16 @@
     <file url="file://$PROJECT_DIR$/ClassAndObjection/Rabbit.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/ClassAndObjection/const.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/ClassAndObjection/copy.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/ClassAndObjection/friendFunc.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/ClassAndObjection/package.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/ClassAndObjection/staticFunc.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/ClassAndObjection/student.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Project/bank.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Projects/bank.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/operatorReload/countSmart.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/operatorReload/operateAndConstructorCast.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/operatorReload/operatorCommon.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/operatorReload/refCount.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/practiceProject/Bank.cpp" charset="GB18030" />
   </component>
 </project>
