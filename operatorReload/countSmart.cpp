@@ -78,8 +78,6 @@ int main()
     SmartPtr pstr2=pstr1;
     (*pstr1).dis();
     SmartPtr pstr3=pstr2;
-    // SmartPtr pstr3;
-    // pstr3=pstr2;
     pstr2->dis();
     cout<<"使用基类对象的指针数量:"<<pstr2.disCount()<<endl;
     return 0;
