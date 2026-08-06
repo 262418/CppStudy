@@ -16,7 +16,7 @@ ostream& operator<<(ostream& os, const A& a)    //ÖØÔØ<<ÔËËã·û
     os<<"(x,y)="<<"("<<a.x<<","<<a.y<<")";
     return os;
 }
-istream& operator>>(istream& is, A& a)      //  ÖØÔØ>>ÔËËã·û
+istream& operator>>(istream& is, A& a)      //ÖØÔØ>>ÔËËã·û
 {
     is>>a.x>>a.y;
     return is;
