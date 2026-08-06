@@ -37,6 +37,7 @@ private:
     Data *pdata;
     int count;
 };
+
 class SmartPtr
 {
 public:
