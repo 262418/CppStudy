@@ -31,3 +31,8 @@ add_executable(operateAndConstructorCast operatorReload/operateAndConstructorCas
 add_executable(operatorFunc operatorReload/operatorFunc.cpp)
 add_executable(refCount operatorReload/refCount.cpp)
 add_executable(countSmart operatorReload/countSmart.cpp)
+add_executable(virtualInherit Inherit/virtualInherit.cpp)
+add_executable(derive Inherit/derive.cpp)
+add_executable(public Inherit/public.cpp)
+add_executable(compatibility Inherit/compatibility.cpp)
+add_executable(conDestructor Inherit/conDestructor.cpp)
