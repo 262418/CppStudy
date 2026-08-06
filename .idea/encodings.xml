@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/ClassAndObjection/student.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Inherit/conDestructor.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Inherit/derive.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Inherit/overWrite.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Inherit/public.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Inherit/virtualInherit.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/OperatorReload/countSmart.cpp" charset="GB18030" />
