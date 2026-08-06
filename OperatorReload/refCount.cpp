@@ -28,8 +28,8 @@ int main()
     Data *pstr2=pstr1;
     Data *pstr3=pstr1;
     pstr1->dis();
+    //当pstr1被释放时，其他两个指针仍在使用此对象，造成悬空指针
     delete pstr1;
     pstr2->dis();
-    //当pstr1被释放时，其他两个指针仍在使用此对象，造成悬空指针
     return 0;
 }
