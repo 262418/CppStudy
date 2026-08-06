@@ -40,6 +40,7 @@ private:
     int y;
     int z;
 };
+
 class Point
 {
 public:
