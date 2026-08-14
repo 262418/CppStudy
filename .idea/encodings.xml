@@ -24,6 +24,9 @@
     <file url="file://$PROJECT_DIR$/OperatorReload/refCount.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Project/bank.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Projects/bank.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/VirtualFunction/abstract.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/VirtualFunction/polymorphic.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/VirtualFunction/vdestructor.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/practiceProject/Bank.cpp" charset="GB18030" />
   </component>
 </project>
