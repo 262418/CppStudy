@@ -24,6 +24,10 @@
     <file url="file://$PROJECT_DIR$/OperatorReload/refCount.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Project/bank.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Projects/bank.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/STL/ArrayAndList.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/STL/SetAndMap.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/STL/array.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/STL/vectorElement.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Template/classTemplate.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Template/specTemplate.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/VirtualFunction/abstract.cpp" charset="GB18030" />
