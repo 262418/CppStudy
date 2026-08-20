@@ -66,3 +66,8 @@ add_executable(fileStream IOstream/fileStream.cpp)
 add_executable(IObinary IOstream/IObinary.cpp)
 add_executable(IOrandom IOstream/IOrandom.cpp)
 add_executable(stringStream IOstream/stringStream.cpp)
+
+add_executable(tryCatch Exception/tryCatch.cpp)
+add_executable(stackUnwinding Exception/stackUnwinding.cpp)
+add_executable(stdException Exception/stdException.cpp)
+add_executable(staticAssert Exception/staticAssert.cpp)

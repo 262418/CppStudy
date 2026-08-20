@@ -12,6 +12,9 @@
     <file url="file://$PROJECT_DIR$/ClassAndObjection/package.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/ClassAndObjection/staticFunc.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/ClassAndObjection/student.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Exception/stackUnwinding.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Exception/stdException.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/Exception/tryCatch.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/IOstream/IObinary.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/IOstream/IOrandom.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/IOstream/fileStream.cpp" charset="GB18030" />
