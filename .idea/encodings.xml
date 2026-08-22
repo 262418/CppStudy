@@ -26,6 +26,9 @@
     <file url="file://$PROJECT_DIR$/Inherit/overWrite.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Inherit/public.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/Inherit/virtualInherit.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/NewFeature/programingEfficiency.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/NewFeature/programingMethod.cpp" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/NewFeature/smartPtr.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/OperatorReload/countSmart.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/OperatorReload/operateAndConstructorCast.cpp" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/OperatorReload/operatorCommon.cpp" charset="GB18030" />
